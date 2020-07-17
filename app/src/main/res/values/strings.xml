@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChallengeApp</string>
+    <string name="welcome_word">Hello World! Please enter search word above.</string>
+    <string name="search">Search</string>
+    <string name="error">Some thing went wrong error code is </string>
+    <string name="enter_txt">Please Enter Valid Text</string>
+</resources>
